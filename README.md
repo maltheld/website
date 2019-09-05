@@ -1,2 +1,2 @@
 # website
-Skole project
+Skole projekt
